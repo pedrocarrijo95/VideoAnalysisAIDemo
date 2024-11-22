@@ -1,6 +1,6 @@
 # TechChallenge Fase4 - Grupo41
 
-LINK VÍDEO: 
+LINK VÍDEO: https://youtu.be/GccgT5ZyZBA
 
 ## Como Rodar?
 Atualize a variável "SCRIPT_DIR" para o path de suas pastas onde tem a pasta images, o video de input e onde será salvo o video de output! - Necessário GPU
