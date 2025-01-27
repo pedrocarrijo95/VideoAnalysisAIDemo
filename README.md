@@ -1,19 +1,21 @@
 # TechChallenge Fase4 - Grupo41
 
-LINK VÍDEO: https://youtu.be/GccgT5ZyZBA
+LINK VÍDEO: -
 
 ## Como Rodar?
-Atualize a variável "SCRIPT_DIR" para o path de suas pastas onde tem a pasta images, o video de input e onde será salvo o video de output! - Necessário GPU
+Atualize a variável "receiver_email" para o seu email receber os alertas dos objetos perigosos !
+Atualize o path para o VideoCapture buscar o vídeo de teste para analise (https://drive.google.com/file/d/1GjJA5tb-jRh4OTBnm_nLqs2xuNKk6vdh/view?usp=sharing).
+Caso necessário podem alterar o hiperparâmetro de confidence !
 
 ## INTEGRANTES DO GRUPO 41
-
-Vinicius dos Santos Mendes
-
-trekpsn@gmail.com
 
 Pedro Henrique de Oliveira Carrijo
 
 pedro.car.rijo@hotmail.com
+
+Vinicius dos Santos Mendes
+
+trekpsn@gmail.com
 
 DIOGO MORALES MARTINS HALAS
 
