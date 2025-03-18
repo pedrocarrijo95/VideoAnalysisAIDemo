@@ -1,0 +1,25 @@
+Summary of Actions Detected:
+- Right arm raised: 13.74% of the time
+- Both arms raised: 6.05% of the time
+- Left arm raised: 6.78% of the time
+- Arms lowered: 73.42% of the time
+
+Summary of Emotions Detected:
+- surprise: 6.61% of the time
+- happy: 31.38% of the time
+- sad: 24.33% of the time
+- disgust: 0.06% of the time
+- fear: 10.82% of the time
+- neutral: 21.38% of the time
+- angry: 5.41% of the time
+
+Summary of Labels Detected:
+- rest: 73.42% of the time
+- raise_both: 6.05% of the time
+- raise_left: 6.78% of the time
+- raise_right: 13.74% of the time time
+
+Analysis Information:
+- Total frames analyzed: 3326
+- Number of anomalous movements detected: 171
+- Percentage of frames with anomalies: 5.14%
