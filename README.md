@@ -1,4 +1,4 @@
-# 🎥 VideoAnalysiAi
+# 🎥 VideoAnalysisAi
 
 **VideoAnalysiAi** is a comprehensive notebook that analyzes human motion and facial expressions in a video. It draws human skeletons using pose estimation, detects abrupt movements, performs facial recognition, and generates a full report of the analysis.
 
